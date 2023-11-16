@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Cybersecurity Home Lab for detecting and monitoring events</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [link to project](https://github.com/cavemancop needed)
 
 
 
