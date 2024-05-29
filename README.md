@@ -6,7 +6,7 @@
   
     Libraries used: Pandas, Seaborn, Matplotlib
     Skills: basic data analysis of data type, shape, info, columns ect...
-    link to project:
+    link to project:https://github.com/Cavemancop/Projects/tree/Cursory-Data-Analysis
     
   <c>Cleaning Cricket(the goofy sport) Data:</c>
   
