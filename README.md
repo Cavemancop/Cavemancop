@@ -6,12 +6,12 @@
   
     Libraries used: Pandas, Seaborn, Matplotlib
     Skills: basic data analysis of data type, shape, info, columns ect...
-    link to project:https://github.com/Cavemancop/Projects/tree/Cursory-Data-Analysis
+    link to project: https://github.com/Cavemancop/Projects/tree/Cursory-Data-Analysis
     
   <c>Cleaning Cricket(the goofy sport) Data:</c>
   
     Libraries: Pandas
-    Skills: Web scrapping data from:https://www.espncricinfo.com/records/highest-career-batting-average-282910
+    Skills: Web scrapping data from: https://www.espncricinfo.com/records/highest-career-batting-average-282910
       Data cleaning, dropping/adding columns, change data types, debugging and address null values
     link to project:
   
@@ -19,7 +19,7 @@
 <h3>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Cybersecurity Home Lab for detecting and monitoring events</b>
-  - [link to project](https://github.com/cavemancop needed)
+  - [link to project](https://github.com/cavemancop) (needed)
 
 
 
