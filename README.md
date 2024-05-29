@@ -2,11 +2,11 @@
 
 <h2> Data Projects:</h2>
 
-  <b1>Basic Data Cursory Analysis of Telecommunications Data:</b1>
+  <B1>Basic Data Cursory Analysis of Telecommunications Data:</B1>
   
-    Libraries used: Pandas, Seaborn, Matplotlib
-    Skills: basic data analysis of data type, shape, info, columns ect...
-    link to project: https://github.com/Cavemancop/Projects/tree/Cursory-Data-Analysis
+   <c>Libraries used: Pandas, Seaborn, Matplotlib
+   <c>Skills: basic data analysis of data type, shape, info, columns ect... 
+   <c>project: https://github.com/Cavemancop/Projects/tree/Cursory-Data-Analysis) 
     
   <c>Cleaning Cricket(the goofy sport) Data:</c>
   
