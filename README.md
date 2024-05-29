@@ -21,4 +21,5 @@
 
 
 <h2> 🤳 Connect with me:</h2>   
-- https://linkedin.com/in/matthew-hellwig-16b26211a/
+
+- [Linkedin](https://linkedin.com/in/matthew-hellwig-16b26211a)
