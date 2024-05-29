@@ -7,8 +7,8 @@
     -  [link to project](https://github.com/Cavemancop/Projects/tree/Cursory-Data-Analysis) 
     
  - <c>Cleaning Cricket(the goofy sport) Data:</c>
-   - Skills: Pandas, Web scrapping data from: https://www.espncricinfo.com/records/highest-career-batting-average-282910
-                 Data cleaning, dropping/adding columns, change data types, debugging and address null values
+   - Skills: Pandas, Web scrapping data from: [cricket data,](https://www.espncricinfo.com/records/highest-career-batting-average-282910)
+                 data cleaning, dropping/adding columns, change data types, debugging and address null values
    - [link to project](https://github.com/Cavemancop/Projects/compare/Cricket-Data-Cleaning...Cursory-Data-Analysis)
   
   
